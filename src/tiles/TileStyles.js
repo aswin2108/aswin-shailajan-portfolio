@@ -31,13 +31,13 @@ export const Tile = styled("div")(({ isDarkMode, isAnimating }) => ({
   },
   "&:hover": {
     padding:"0px",
-    textShadow: "-1px -1px 0 var(--tile-color), 1px -1px 0 var(--tile-color), -1px 1px 0 var(--tile-color), 1px 1px 0 var(--tile-color)",
+    // textShadow: "-1px -1px 0 var(--tile-color), 1px -1px 0 var(--tile-color), -1px 1px 0 var(--tile-color), 1px 1px 0 var(--tile-color)",
     backgroundColor: isDarkMode==="dark" ? "black": "white",
     border: "2px solid var(--tile-color)",
   },
   "&:hover div": {
-    textShadow: "-1px -1px 0 var(--tile-color), 1px -1px 0 var(--tile-color), -1px 1px 0 var(--tile-color), 1px 1px 0 var(--tile-color)",
-    color: isDarkMode==="dark" ? "black":"white",
+    textShadow: isDarkMode==="dark" ? "-1px -1px 0 var(--tile-color), 1px -1px 0 var(--tile-color), -1px 1px 0 var(--tile-color), 1px 1px 0 var(--tile-color)" : "",
+    color: isDarkMode==="dark" ? "black":"var(--tile-color)",
     
     transition: "color 0.2s"
   }, 

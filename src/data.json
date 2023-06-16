@@ -22,6 +22,18 @@
       "flipped": true
     },
     {
+      "tileName": "My articles",
+      "content": {
+        "type": "iconLink",
+        "url": "https://iq.opengenus.org/author/aswin-shailajan/",
+        "iconSrc": "https://cdn2.vectorstock.com/i/1000x1000/77/96/content-writing-icon-vector-21007796.jpg",
+        "iconAlt": "Icon"
+      },
+      "isSquare": true,
+      "color": "gold",
+      "flipped": false
+    },
+    {
       "tileName": "Skills",
       "content": "C++, React, Firebase, Python, Java, [Postgress, MySQL](SQL)",
       "isSquare": false,
@@ -76,7 +88,7 @@
       "content": {
         "type": "iconLink",
         "url": "https://www.linkedin.com/in/aswin-shailajan/",
-        "iconSrc": "https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png",
+        "iconSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX2fJvvezVFYBBn3p8EDYea5uumARb26RJ8Q&usqp=CAU",
         "iconAlt": "Icon"
       },
       "isSquare": false,
@@ -88,7 +100,7 @@
       "content": {
         "type": "iconLink",
         "url": "https://drive.google.com/file/d/1YpWiUwnvDSR9s5WlgOhpw4sbEFcLwg8w/view?usp=sharing",
-        "iconSrc": "https://icons.veryicon.com/png/System/Standard%20Portfolio/Resume.png",
+        "iconSrc": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0ZK_hXmy6rVmHB4jFjg12CTahukEA9DtkLgy0RE8FFgaAAsaN",
         "iconAlt": "Icon"
       },
       "isSquare": true,
@@ -109,7 +121,7 @@
     },
     {
       "tileName": "About this site!",
-      "content": "Made with \u2764  by me and my friends",
+      "content": "Made with \u2764  by me",
       "isSquare": true,
       "color": "#FC766AFF",
       "flipped": true
