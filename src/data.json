@@ -1,0 +1,125 @@
+{
+  "tiles": [
+    {
+      "tileName": "Welcome to...",
+      "content": "...my portfolio!",
+      "isSquare": true,
+      "color": "#ccd916",
+      "flipped": true
+    },
+    {
+      "tileName": "Click me!",
+      "content": "Click title twice!",
+      "isSquare": false,
+      "color": "#09e9ed",
+      "flipped": true
+    },
+    {
+      "tileName": "Who am I?",
+      "content": "Final year computer enthusiast",
+      "isSquare": true,
+      "color": "#8120c7",
+      "flipped": true
+    },
+    {
+      "tileName": "Skills",
+      "content": "C++, React, Firebase, Python, Java, [Postgress, MySQL](SQL)",
+      "isSquare": false,
+      "color": "#f58720",
+      "flipped": true
+    },
+    {
+      "tileName": "My Github",
+      "content": {
+        "type": "iconLink",
+        "url": "https://github.com/aswin2108",
+        "iconSrc": "https://icons.veryicon.com/png/System/Flatwoken/Apps%20github.png",
+        "iconAlt": "Icon"
+      },
+      "isSquare": false,
+      "color": "#4183C4",
+      "flipped": false
+    },
+    {
+      "tileName": "Located at",
+      "content": {
+        "type": "iconLink",
+        "url": "https://goo.gl/maps/1rjWiz8wx5kouU4n7",
+        "iconSrc": "https://icons.veryicon.com/png/System/Flatwoken/Apps%20google%20maps.png",
+        "iconAlt": "Icon"
+      },
+      "isSquare": false,
+      "color": "#DB4437",
+      "flipped": false
+    },
+    {
+      "tileName": "Color Shuffle",
+      "content": "Color Shuffle",
+      "isSquare": true,
+      "color": "#20c7a5",
+      "flipped": true
+    },
+    {
+      "tileName": "Project 1 - Diary Chatbot App",
+      "content": {
+        "type": "iconLink",
+        "url": "https://github.com/aswin2108/BroDiary",
+        "iconSrc": "https://img.freepik.com/premium-vector/illustration-vector-graphic-cartoon-character-performance-standards-project-management-certification_516790-1212.jpg?w=200",
+        "iconAlt": "Icon"
+      },
+      "isSquare": false,
+      "color": "gold",
+      "flipped": false
+    },
+    {
+      "tileName": "LinkedIn",
+      "content": {
+        "type": "iconLink",
+        "url": "https://www.linkedin.com/in/aswin-shailajan/",
+        "iconSrc": "https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png",
+        "iconAlt": "Icon"
+      },
+      "isSquare": false,
+      "color": "#6e9bf5",
+      "flipped": false
+    },
+    {
+      "tileName": "My Resume",
+      "content": {
+        "type": "iconLink",
+        "url": "https://drive.google.com/file/d/1YpWiUwnvDSR9s5WlgOhpw4sbEFcLwg8w/view?usp=sharing",
+        "iconSrc": "https://icons.veryicon.com/png/System/Standard%20Portfolio/Resume.png",
+        "iconAlt": "Icon"
+      },
+      "isSquare": true,
+      "color": "#1ED760",
+      "flipped": false
+    },
+    {
+      "tileName": "Project 2 - Ecommerce Store",
+      "content": {
+        "type": "iconLink",
+        "url": "https://github.com/aswin2108/TIARA-CLOTHING",
+        "iconSrc": "https://www.techrepublic.com/wp-content/uploads/2022/11/how-to-add-milestones-ora-770x514.jpeg",
+        "iconAlt": "Icon"
+      },
+      "isSquare": false,
+      "color": "#f76f63",
+      "flipped": false
+    },
+    {
+      "tileName": "About this site!",
+      "content": "Made with \u2764  by me and my friends",
+      "isSquare": true,
+      "color": "#FC766AFF",
+      "flipped": true
+    },
+    {
+      "tileName": "Currently I'm",
+      "content": "A student and always will be",
+      "isSquare": true,
+      "color": "#5B84B1FF",
+      "flipped": true
+    }
+  ]
+}
